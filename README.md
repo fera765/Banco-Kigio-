@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="kigio" src="https://i.ibb.co/93P5DHf/exemplo.gif" />
+<img alt="kigio" src="https://github.com/fera765/Banco-Kigio-/blob/master/src/assets/exemplo.gif" />
 </p>
 <h1 align="center">
   🚀 React Native App 🚀
